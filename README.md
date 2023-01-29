@@ -2,19 +2,16 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
-
+i am to create a program that converts numbers to roman numerals
 ## Description
-TODO - How have you solved the problem?
+in other to complete this task i used hash key-value pair to store the roman numerals to certain numbers.
+i iterated over each element in the hash, then i returned roman. 
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+no Installation needed for this program
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+to use this program type ruby my_roman_numerals_converter in the terminal then call the method my_roman_numerals_converter(number), replace number with whatever number you want to
 
 ### The Core Team
 
