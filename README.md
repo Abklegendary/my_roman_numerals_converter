@@ -11,7 +11,7 @@ i iterated over each element in the hash, then i returned roman.
 no Installation needed for this program
 
 ## Usage
-to use this program type ruby my_roman_numerals_converter in the terminal then call the method my_roman_numerals_converter(number), replace number with whatever number you want to
+to use this program type ruby my_roman_numerals_conversion
 
 ### The Core Team
 
